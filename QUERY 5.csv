@@ -1,0 +1,13 @@
+Status,Total_Orders
+Shipped,77580
+"Shipped - Delivered to Buyer",28754
+Cancelled,10761
+"Shipped - Returned to Seller",1947
+"Shipped - Picked Up",973
+Pending,656
+"Pending - Waiting for Pick Up",281
+"Shipped - Returning to Seller",145
+"Shipped - Out for Delivery",35
+"Shipped - Rejected by Buyer",11
+"Shipped - Lost in Transit",5
+"Shipped - Damaged",1
